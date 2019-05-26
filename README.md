@@ -21,6 +21,10 @@ Estonian WordNet 2.2 path similarity measure achieved a Spearman Correlation of 
 ResNet-18 achieved Spearman Correlation of **0.38** on both data sets. 
 
 
+<br>
+<br>
+<br>
+<br>
 
 [1] SimLex-999: Evaluating Semantic Models with (Genuine) Similarity Estimation. 2014. Felix Hill, Roi Reichart and Anna Korhonen. Computational Linguistics. 2015
 
