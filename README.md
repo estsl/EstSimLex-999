@@ -2,6 +2,7 @@
 
 Authors: Claudia Kittask and Eduard Barbu
 
+
 EstSimLex-999 is a data set for evaluation of models of similarity for Estonian Language. This data set contains 999 human annotated Estonian word pairs. This data set is translation of SimLex-999 [1]. 
 
 ## Download the Data Set
@@ -9,7 +10,7 @@ EstSimLex-999 is a data set for evaluation of models of similarity for Estonian 
 Link to EstSimLex-999 and results can be found [here](https://docs.google.com/spreadsheets/d/12IWabZzPIn0QvetZJvxAshZPX_g0fhoLh1g6OYYSZ0E/edit#gid=0). 
 
 All design details are outlined in the following paper. Please cite it if you use EstSimLex-999. 
-Is Similarity Visually Grounded? Computational Model of Similarity for the Estonian language  Claudia Kittask and Eduard Barbu
+[Is Similarity Visually Grounded? Computational Model of Similarity for the Estonian language](https://github.com/estsl/EstSimLex-999/blob/master/Is%20Similarity%20Visually%20Grounded%20Computational%20Model%20of%20Similarity%20for%20Estonian%20Language.pdf)  Claudia Kittask and Eduard Barbu
 
 Original data set can be downloaded [here](https://fh295.github.io/simlex.html). 
 
