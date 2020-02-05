@@ -43,20 +43,6 @@ Estonian WordNet 2.2 path similarity measure achieved a Spearman Correlation of 
 ResNet-18 achieved Spearman Correlation of **0.38** on both data sets. 
 
 <br>
-@inproceedings{kittask-barbu-2019-similarity,
-    title = "Is Similarity Visually Grounded? Computational Model of Similarity for the {E}stonian language",
-    author = "Kittask, Claudia  and
-      Barbu, Eduard",
-    booktitle = "Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2019)",
-    month = sep,
-    year = "2019",
-    address = "Varna, Bulgaria",
-    publisher = "INCOMA Ltd.",
-    url = "https://www.aclweb.org/anthology/R19-1064",
-    doi = "10.26615/978-954-452-056-4_064",
-    pages = "541--549",
-    abstract = "Researchers in Computational Linguistics build models of similarity and test them against human judgments. Although there are many empirical studies of the computational models of similarity for the English language, the similarity for other languages is less explored. In this study we are chiefly interested in two aspects. In the first place we want to know how much of the human similarity is grounded in the visual perception. To answer this question two neural computer vision models are used and their correlation with the human derived similarity scores is computed. In the second place we investigate if language influences the similarity computation. To this purpose diverse computational models trained on Estonian resources are evaluated against human judgments",
-}
 <br>
 <br>
 <br>
